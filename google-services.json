@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "378404437008",
+    "firebase_url": "https://football-league12-default-rtdb.firebaseio.com",
+    "project_id": "football-league12",
+    "storage_bucket": "football-league12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378404437008:android:c576854dafc9374ab1de95",
+        "android_client_info": {
+          "package_name": "com.ahs.football"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378404437008-lmg6tqed8ia1nuvvkbj9rfv1atqe9d5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaAppusm8LYZrh-2dn1zYJcvLW-V8ldyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378404437008-lmg6tqed8ia1nuvvkbj9rfv1atqe9d5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
